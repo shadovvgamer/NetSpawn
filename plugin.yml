@@ -1,0 +1,7 @@
+name: NetSpawn
+main: NetSpawn.NetSpawn
+author: Aktevv
+version: 1.0
+commands:
+  spawn:
+  setspawn:
